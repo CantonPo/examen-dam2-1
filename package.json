@@ -1,0 +1,15 @@
+{
+  "name": "examen-dam2-1",
+  "version": "1.0.0",
+  "description": "- Ya tenía sesión iniciada en gitHub, he creado el archivo dockerfile y he comprobado que me dejaba hacer commit y push añadiendo los cambios con git add . luego git commit -m y git push origin master, todo ha ido bien. - Iniciar sesión en docker es tan sencillo como usar docker login, como yo ya habia iniciado sesión anteriormente en la máquina direcatamente me devuelve login suceeded,si no nos pediría las credenciales.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "sqlite3": "^5.1.7"
+  }
+}
